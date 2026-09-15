@@ -4,7 +4,7 @@
 
 Triply is a full-stack travel planning assistant. Describe a trip in natural language and it combines live flight-status data, hotel research, an AI-generated day-by-day itinerary, budget guidance, and practical recommendations in one response.
 
-![Triply travel planner interface](docs/triply-ui.png)
+![Triply travel planner interface](docs/triply.png)
 
 The interface is intentionally simple: enter a request such as:
 
