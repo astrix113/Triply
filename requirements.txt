@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+langchain-tavily
+psycopg[binary]
+psycopg_pool
+python-dotenv
+tavily-python
+requests
+langgraph-checkpoint-postgres
+airportsdata==20260315
+pycountry
+fastapi
+uvicorn
+jinja2
